@@ -1,0 +1,5 @@
+{
+    "current_command": "ls -",
+    "working_dir": "/home/vncsna/Documents/zsh-ai-autocomplete",
+    "history": ["ls -la", "cd ..", "pwd", "git status"]
+}
